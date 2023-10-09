@@ -16,3 +16,5 @@ microservice:
     endpoints:
       endpoint:
         uri: http://Order-Service/api/orderservice/order
+app:
+  name:  hello
